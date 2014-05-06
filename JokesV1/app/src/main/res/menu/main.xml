@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.michaelcarrano.jokesv1.app.MainActivity">
+    <item
+        android:id="@+id/action_rand_joke"
+        android:title="@string/action_rand_joke"
+        android:showAsAction="always"
+        app:showAsAction="always" />
+</menu>

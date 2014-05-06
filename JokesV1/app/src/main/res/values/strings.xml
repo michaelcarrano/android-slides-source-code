@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Jokes V1</string>
+    <string name="show_answer">Show Answer</string>
+    <string name="action_rand_joke">Random Joke</string>
+
+    <string-array name="jokes">
+        <item>Why do programmers always mix up Halloween and Christmas?</item>
+        <item>How many programmers does it take to change a light bulb?</item>
+        <item>What is the object-oriented way to become wealthy?</item>
+        <item>Why do Java Programmers wear glasses?</item>
+    </string-array>
+
+    <string-array name="answers">
+        <item>Because Oct 31 == Dec 25!</item>
+        <item>None, that\'s a hardware problem</item>
+        <item>Inheritance</item>
+        <item>Because they don\'t C#</item>
+    </string-array>
+
+</resources>
