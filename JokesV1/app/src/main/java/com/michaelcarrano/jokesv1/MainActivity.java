@@ -1,4 +1,6 @@
-package com.michaelcarrano.jokesv1.app;
+package com.michaelcarrano.jokesv1;
+
+import com.michaelcarrano.jokesv1.app.R;
 
 import android.app.Activity;
 import android.os.Bundle;
