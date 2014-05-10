@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_rand_joke"
+        android:title="@string/action_rand_joke"
+        android:showAsAction="always|withText" />
+    <item
+        android:id="@+id/action_email_joke"
+        android:title="@string/action_email_joke"
+        android:showAsAction="ifRoom" />
+</menu>
